@@ -29,3 +29,10 @@
 
 
 ![Ayoze's stats](https://github-readme-stats.vercel.app/api?username=ElPayo&count_private=true&theme=material-palenight)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElPayo&repo=add2122-ayoze-hernandez&theme=material-palenight)](https://github.com/ElPayo/add2122-ayoze-hernandez)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElPayo&repo=SRD&theme=material-palenight)](https://github.com/ElPayo/SRD)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElPayo&repo=ADE&theme=material-palenight)](https://github.com/ElPayo/ADE)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElPayo&repo=pro_te_t1&theme=material-palenight)](https://github.com/ElPayo/pro_te_t1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElPayo&repo=sgy15_ayoze&theme=material-palenight)](https://github.com/ElPayo/sgy15_ayoze)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElPayo&repo=imw15_ayoze&theme=material-palenight)](https://github.com/ElPayo/imw15_ayoze)
