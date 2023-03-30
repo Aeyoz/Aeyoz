@@ -26,3 +26,6 @@
 <a href="https://www.instagram.com/el__payo__/"><img src="https://static.cdninstagram.com/rsrc.php/v3/yG/r/De-Dwpd5CHc.png" alt="Instagram" width=50px></a>
 <a href="https://www.reddit.com/user/pay1sus"><img src="https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png" alt="Reddit" width=50px></a>
 <a href="https://discord.com/users/501468024281366528"><img src="https://discord.com/assets/847541504914fd33810e70a0ea73177e.ico" alt="Discord" width=50px></a>
+
+
+![Ayoze's stats](https://github-readme-stats.vercel.app/api?username=ElPayo&count_private=true&theme=material-palenight)
