@@ -27,6 +27,7 @@
 <a href="https://www.reddit.com/user/pay1sus"><img src="https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png" alt="Reddit" width=50px></a>
 <a href="https://discord.com/users/501468024281366528"><img src="https://discord.com/assets/847541504914fd33810e70a0ea73177e.ico" alt="Discord" width=50px></a>
 
+<center>
 
 ![Ayoze's stats](https://github-readme-stats.vercel.app/api?username=ElPayo&count_private=true&theme=material-palenight)
 
@@ -36,3 +37,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElPayo&repo=pro_te_t1&theme=material-palenight)](https://github.com/ElPayo/pro_te_t1)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElPayo&repo=sgy15_ayoze&theme=material-palenight)](https://github.com/ElPayo/sgy15_ayoze)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElPayo&repo=imw15_ayoze&theme=material-palenight)](https://github.com/ElPayo/imw15_ayoze)
+
+</center>
