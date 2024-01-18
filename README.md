@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![GitHub Snake](https://github.com/ElPayo/ElPayo/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://github.com/Aeyoz/Aeyoz/blob/output/github-contribution-grid-snake.svg)
 
 + 🚀 Nothing happening but progress!
 + 🌴 Canary Islands, Spain 
@@ -23,7 +23,7 @@
 ## My social media
 
 <a href="https://twitter.com/El_Payo_"><img src="https://abs.twimg.com/responsive-web/client-web/icon-svg.168b89da.svg" alt="Twitter" width=50px></a>
-<a href="https://www.instagram.com/el__payo__/"><img src="https://static.cdninstagram.com/rsrc.php/v3/yG/r/De-Dwpd5CHc.png" alt="Instagram" width=50px></a>
+<a href="https://www.instagram.com/aeyoz__/"><img src="https://static.cdninstagram.com/rsrc.php/v3/yG/r/De-Dwpd5CHc.png" alt="Instagram" width=50px></a>
 <a href="https://www.reddit.com/user/pay1sus"><img src="https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png" alt="Reddit" width=50px></a>
 <a href="https://discord.com/users/501468024281366528"><img src="https://discord.com/assets/847541504914fd33810e70a0ea73177e.ico" alt="Discord" width=50px></a>
 
@@ -31,11 +31,11 @@
 
 ![Ayoze's stats](https://github-readme-stats.vercel.app/api?username=ElPayo&count_private=true&theme=material-palenight)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElPayo&repo=add2122-ayoze-hernandez&theme=material-palenight)](https://github.com/ElPayo/add2122-ayoze-hernandez)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElPayo&repo=SRD&theme=material-palenight)](https://github.com/ElPayo/SRD)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElPayo&repo=pro&theme=material-palenight)](https://github.com/ElPayo/pro)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElPayo&repo=pro_te_t1&theme=material-palenight)](https://github.com/ElPayo/pro_te_t1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElPayo&repo=sgy15_ayoze&theme=material-palenight)](https://github.com/ElPayo/sgy15_ayoze)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElPayo&repo=imw15_ayoze&theme=material-palenight)](https://github.com/ElPayo/imw15_ayoze)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElPayo&repo=add2122-ayoze-hernandez&theme=material-palenight)](https://github.com/Aeyoz/add2122-ayoze-hernandez)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElPayo&repo=SRD&theme=material-palenight)](https://github.com/Aeyoz/SRD)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElPayo&repo=pro&theme=material-palenight)](https://github.com/Aeyoz/pro)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElPayo&repo=pro_te_t1&theme=material-palenight)](https://github.com/Aeyoz/pro_te_t1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElPayo&repo=sgy15_ayoze&theme=material-palenight)](https://github.com/Aeyoz/sgy15_ayoze)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElPayo&repo=imw15_ayoze&theme=material-palenight)](https://github.com/Aeyoz/imw15_ayoze)
 
 </center>
