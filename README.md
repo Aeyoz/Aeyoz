@@ -31,11 +31,11 @@
 
 ![Ayoze's stats](https://github-readme-stats.vercel.app/api?username=ElPayo&count_private=true&theme=material-palenight)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElPayo&repo=add2122-ayoze-hernandez&theme=material-palenight)](https://github.com/Aeyoz/add2122-ayoze-hernandez)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElPayo&repo=SRD&theme=material-palenight)](https://github.com/Aeyoz/SRD)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElPayo&repo=pro&theme=material-palenight)](https://github.com/Aeyoz/pro)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElPayo&repo=pro_te_t1&theme=material-palenight)](https://github.com/Aeyoz/pro_te_t1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElPayo&repo=sgy15_ayoze&theme=material-palenight)](https://github.com/Aeyoz/sgy15_ayoze)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElPayo&repo=imw15_ayoze&theme=material-palenight)](https://github.com/Aeyoz/imw15_ayoze)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aeyoz&repo=add2122-ayoze-hernandez&theme=material-palenight)](https://github.com/Aeyoz/add2122-ayoze-hernandez)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aeyoz&repo=SRD&theme=material-palenight)](https://github.com/Aeyoz/SRD)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aeyoz&repo=pro&theme=material-palenight)](https://github.com/Aeyoz/pro)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aeyoz&repo=pro_te_t1&theme=material-palenight)](https://github.com/Aeyoz/pro_te_t1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aeyoz&repo=sgy15_ayoze&theme=material-palenight)](https://github.com/Aeyoz/sgy15_ayoze)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aeyoz&repo=imw15_ayoze&theme=material-palenight)](https://github.com/Aeyoz/imw15_ayoze)
 
 </center>
