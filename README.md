@@ -29,7 +29,7 @@
 
 <center>
 
-![Ayoze's stats](https://github-readme-stats.vercel.app/api?username=ElPayo&count_private=true&theme=material-palenight)
+![Ayoze's stats](https://github-readme-stats.vercel.app/api?username=Aeyoz&count_private=true&theme=material-palenight)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aeyoz&repo=add2122-ayoze-hernandez&theme=material-palenight)](https://github.com/Aeyoz/add2122-ayoze-hernandez)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aeyoz&repo=SRD&theme=material-palenight)](https://github.com/Aeyoz/SRD)
